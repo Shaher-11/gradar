@@ -1,30 +1,22 @@
-![](https://img.shields.io/badge/Udzilla-blueviolet)
+![](https://img.shields.io/badge/Gradar-blueviolet)
 
-# Udzilla
+# Gradar
 
-> Udzilla is an E-learning platform with many features implemented to help students and teachers have the best experience of online learning,
-> The project built to be a place for affordable learning material as it has free and paid courses,Also students will get certificates whether the course is paid or not,the platform has too many features and functionalities to include in a paragraph so Please visit the link below and see for yourself,
-> As for the domain model of the project, I have included an ERD down below, Kindly check it out.
+> Gradar is an application built to help people find all the information they need on any github user,
+> By simply entering the username the app will retrieve the useful data from github api and display it in a nicely organized way.
 
 
-![screenshot](./app/assets/images/app.png)
+![screenshot](./app.png)
 
 
 ## Built With
 
-- Ruby
-- Ruby On Rails
-- Javascript
+- HTML
+- JavaScript
 - Bootstrap
-- HAML
-- AWS S3
-- Twilio
-- PostrgreSQL
+- Github API
+- Netlify
 - Lots of love :heart:
-
-# Udzilla Domain Model
-
-![screenshot](./app.png)
 
 
 ## Live Demo
