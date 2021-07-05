@@ -24,7 +24,7 @@
 
 # Udzilla Domain Model
 
-![screenshot](./app/assets/images/erd-1.png)
+![screenshot](./app.png)
 
 
 ## Live Demo
