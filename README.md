@@ -29,7 +29,7 @@
 
 ## Live Demo
 
-[Udzilla Live Demo](https://udzilla.herokuapp.com)
+[Gradar Live Demo](https://garadar.netlify.app/)
 
 
 
