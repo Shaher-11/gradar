@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-[Gradar Live Demo](https://garadar.netlify.app/)
+[Gradar Live Demo](https://shaher-11.github.io/gradar/)
 
 
 
